@@ -1,1 +1,5 @@
-ITP things.
+Name: Suman Dash
+Registration Number: 2402041126
+Section: J
+Branch: CSE
+Domain: Competitive Programming
